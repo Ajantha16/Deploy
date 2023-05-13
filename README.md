@@ -1,5 +1,17 @@
-LIVE LINK
+DEPLOYMENT OF SOCIAL MEDIA APPLICATION 
+
+
+         SHARE ME
+        
+        
+        
+        
+        
+        
+        
+        
+                 LIVE LINK
 
 
 
-https://sharemejsm.netlify.app
+                           https://sharemejsm.netlify.app
